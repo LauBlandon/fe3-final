@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer>
-        <img src="images/DH.png" alt='logo' />
+        <img src="images/DentalLogo-White.png" alt='logo' />
         <div class="social-media">
           <img src="images/ico-facebook.png" alt="facebook" />
           <img src="images/ico-instagram.png" alt="instagram" />

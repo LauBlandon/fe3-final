@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <nav>
-      <img src="images/DH.png" alt="dental-logo" />
+      <img src="images/DentalLogo.png" alt="dental-logo" />
       <ul>
         <li><Link to="/home">Home</Link></li>
         <li><Link to="/favs">Favs</Link></li>
